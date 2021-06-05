@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Izzy
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning how to think like a programmer ᕕ( ᐛ )ᕗ
+- 🌱 Currently a programmer in training ᕕ( ᐛ )ᕗ
 
 
 <!---
