@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Izzy
 - 👀 I’m interested in technology
-- 🌱 Currently a programmer in training ᕕ( ᐛ )ᕗ
+- 🌱 "Do the thing you fear the most & death of fear is certain"
 
 
 <!---
